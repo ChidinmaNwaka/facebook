@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "userId": "1234324",
+      "firstName": "Chidi",
+      "lastName": "Nwaka",
+      "age": 29,
+      "hi": "Playing sports",
+      "hobbies": "playing sports, coding, dancing"
+    },
+    {
+      "userId": "45635",
+      "firstName": "Mojola",
+      "lastName": "Nwaka",
+      "age": 27,
+      "hobbies": "drawing, watching movies"
+    },
+    {
+      "userId": "346655",
+      "firstName": "Osemeke",
+      "lastName": "Nwaka",
+      "age": 31,
+      "hobbies": "programming, playing video games"
+    }
+  ]
+}
